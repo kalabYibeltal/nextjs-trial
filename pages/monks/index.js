@@ -12,7 +12,7 @@ export const getStaticProps = async () =>{
 const Monks = ({ monks }) => {
     return (
         <div> 
-            <h1>Monks</h1>
+            <h1>bros</h1>
             { monks.map(monk => (
                 <Link href = {'/monks/' + monk.id} key={monk.id}>
                    <a className={ styles.single}>
