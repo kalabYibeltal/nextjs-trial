@@ -8,7 +8,9 @@ const About = () => {
         </Head>
           <div>
             <h1>About</h1> 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut modi nobis nulla minima nam voluptatibus hic nesciunt, recusandae, minus sint, non iste commodi numquam. Aliquid vitae provident mollitia ea. Ipsum.</p>
+            <p>My name is Kalab Yibeltal Assefa. I was born on August 27,2000. I have attended Saint Joseph high school, and now I am 4th year undergraduate students in Addis Ababa Inistitiute of Technology.</p>
+            <p>I knew I was smarter than the average person from a young age. I am a strong chess player. I also very good at most sports known to mankind. I know I am going to be the 108th n</p>
+            
           </div>
         </>
      );

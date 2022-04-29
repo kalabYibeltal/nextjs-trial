@@ -6,9 +6,9 @@ const Navbar = () => {
           <div className="logo">
               <Image src="/aot.png" width={128} height={77} />
           </div>  
-          <Link href="/" ><a>Home</a></Link> 
+          <Link href="/egames" ><a>egames</a></Link> 
           <Link href="/about"><a>About</a></Link>
-          <Link href="/monks"><a>Monks Listing</a></Link>
+          <Link href="/friends"><a>kalabs' friends</a></Link>
         </nav>
      );
 } 
