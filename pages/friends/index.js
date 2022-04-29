@@ -14,7 +14,7 @@ const Monks = ({ monks }) => {
         <div> 
             <h1>Monks</h1>
             { monks.map(monk => (
-                <Link href = {'/monks/' + monk.id} key={monk.id}>
+                <Link href = {'/friends/' + monk.id} key={monk.id}>
                    <a className={ styles.single}>
                        <h3> { monk.name} </h3>
                    </a> 
